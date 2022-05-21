@@ -625,7 +625,7 @@ namespace lab1
             m[minInd.X, minInd.Y] = float.NaN;
         }
 
-        // сама оптимизация (метод потенециалов
+        // сама оптимизация (метод потенециалов)
         public float[,] PotenMeth(float[,] SupArr)
         {
             // расчитываем Ui и Vi
